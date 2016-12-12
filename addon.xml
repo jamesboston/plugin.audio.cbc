@@ -11,7 +11,7 @@
         <license>GNU General Public License, v2</license>
         <description lang="en">CBC Radio from cities across Canada</description>
         <platform>all</platform>
-        <source>https://github.com/jamesboston/pidgincbc</source>
+        <source>https://github.com/jamesboston/plugin.audio.cbc</source>
         <assets>
             <icon>icon.png</icon>
         </assets>
